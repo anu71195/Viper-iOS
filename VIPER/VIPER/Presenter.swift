@@ -7,3 +7,8 @@
 
 import Foundation
 
+// Object
+// Protocol
+// References to Interactor, Router, View
+
+
