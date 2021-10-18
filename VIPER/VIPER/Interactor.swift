@@ -11,4 +11,6 @@ import Foundation
 // Protocol
 // Reference to Presenter
 
-//Basically get some data, do some interactions
+//Basically get some data, do some interactions like api calls, grab some random endpoints to get some random data
+
+// https://jsonplaceholder.typicode.com/users
